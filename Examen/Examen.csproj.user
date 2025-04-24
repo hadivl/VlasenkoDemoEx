@@ -7,6 +7,20 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AddData.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EddingDate.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddData.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EddingDate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>

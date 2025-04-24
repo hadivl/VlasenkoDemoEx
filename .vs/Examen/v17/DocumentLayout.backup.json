@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\adddata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|solutionrelative:examen\\adddata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\eddingdate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|solutionrelative:examen\\eddingdate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\adddata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|solutionrelative:examen\\adddata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\eddingdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|solutionrelative:examen\\eddingdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|solutionrelative:examen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 597,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Examen\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\MainWindow.xaml.cs",
               "RelativeToolTip": "Examen\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T07:13:58.252Z",
               "IsPinned": true,
@@ -44,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Examen\\MainWindow.xaml",
@@ -57,7 +73,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddData.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\AddData.xaml.cs",
+              "RelativeDocumentMoniker": "Examen\\AddData.xaml.cs",
+              "ToolTip": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\AddData.xaml.cs",
+              "RelativeToolTip": "Examen\\AddData.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:17:59.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EddingDate.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\EddingDate.xaml.cs",
+              "RelativeDocumentMoniker": "Examen\\EddingDate.xaml.cs",
+              "ToolTip": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\EddingDate.xaml.cs",
+              "RelativeToolTip": "Examen\\EddingDate.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:16:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EddingDate.xaml",
+              "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\EddingDate.xaml",
+              "RelativeDocumentMoniker": "Examen\\EddingDate.xaml",
+              "ToolTip": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\EddingDate.xaml",
+              "RelativeToolTip": "Examen\\EddingDate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T08:12:58.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AddData.xaml",
+              "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\AddData.xaml",
+              "RelativeDocumentMoniker": "Examen\\AddData.xaml",
+              "ToolTip": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\AddData.xaml",
+              "RelativeToolTip": "Examen\\AddData.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T08:12:17.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Dogovor.cs",
               "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\Model\\Dogovor.cs",
               "RelativeDocumentMoniker": "Examen\\Model\\Dogovor.cs",
@@ -69,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\Model\\Client.cs",
               "RelativeDocumentMoniker": "Examen\\Model\\Client.cs",

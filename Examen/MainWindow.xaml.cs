@@ -37,12 +37,26 @@ namespace Examen
 
         private void EditButton_Click(object sender, RoutedEventArgs e)
         {
+            EddingDate editingWindow = new EddingDate()
+            {
+                Owner = this
+            };
 
+            this.Hide();
+            editingWindow.ShowDialog();
+            this.Show();
         }
 
         private void AddButton_Click(object sender, RoutedEventArgs e)
         {
+            AddData addWindow = new AddData()
+            {
+                Owner = this
+            };
 
+            this.Hide();
+            addWindow.ShowDialog();
+            this.Show();
         }
     }
 }

@@ -145,3 +145,7 @@ D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\Examen.
 D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\Examen.genruntimeconfig.cache
 D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\ref\Examen.dll
 D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\Examen.sourcelink.json
+D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\AddData.g.cs
+D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\EddingDate.g.cs
+D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\AddData.baml
+D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\EddingDate.baml
