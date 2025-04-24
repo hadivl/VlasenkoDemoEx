@@ -14,10 +14,11 @@ namespace Examen
         {
             InitializeComponent();
             _context = new VlasenkoDemoExContext();
-            LoadClients();
+            LClients();
         }
 
-        private void LoadClients()
+        //загрузка данных из бд в таблицу
+        private void LClients()
         {
             DateTime today = DateTime.Today;
             _clients = new ObservableCollection<Client>(
@@ -32,6 +33,16 @@ namespace Examen
                     .ToList());
 
             ClientsDataGrid.ItemsSource = _clients;
+        }
+
+        private void EditButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void AddButton_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

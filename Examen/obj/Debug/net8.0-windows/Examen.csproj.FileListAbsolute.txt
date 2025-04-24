@@ -144,3 +144,4 @@ D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\refint\
 D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\Examen.pdb
 D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\Examen.genruntimeconfig.cache
 D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\ref\Examen.dll
+D:\Users\stu-ipsp121\source\repos\Examen\Examen\obj\Debug\net8.0-windows\Examen.sourcelink.json

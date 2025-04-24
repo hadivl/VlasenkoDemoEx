@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|solutionrelative:examen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|solutionrelative:examen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|solutionrelative:examen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B9FACDD-4495-4A2D-B380-855BB674D387}|Examen\\Examen.csproj|d:\\users\\stu-ipsp121\\source\\repos\\examen\\examen\\model\\dogovor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 597,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Examen\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\MainWindow.xaml.cs",
               "RelativeToolTip": "Examen\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T07:13:58.252Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Users\\stu-ipsp121\\source\\repos\\Examen\\Examen\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Examen\\MainWindow.xaml",
@@ -65,7 +65,8 @@
               "RelativeToolTip": "Examen\\Model\\Dogovor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T07:28:05.259Z"
+              "WhenOpened": "2025-04-24T07:28:05.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
