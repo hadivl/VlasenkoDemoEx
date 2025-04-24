@@ -12,6 +12,5 @@
              Background="#67BA80"
              Click="CloseButton_Click" Margin="718,383,10,10"
           />
-
     </Grid>
 </Window>
